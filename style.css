@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Ardinta';
+  src: url(font/Ardinta.ttf);
+}
+@font-face {
+  font-family: 'Memphis';
+  src: url(font/Memphis\ River.ttf);
+}
+@font-face {
+  font-family: 'Qountage';
+  src: url(font/Qountage\ Demo\ Ver\ Regular.ttf);
+}
+.navbar-brand {
+  font-family: 'Memphis', sans-serif;
+  font-size: 25px;
+}
+.navbar-nav {
+  font-family: 'Qountage', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d3d3d3;
+  font-family: 'Memphis', sans-serif;
+}
+#about {
+  font-family: 'Memphis', sans-serif;
+}
+#gallery {
+  background-color: #d3d3d3;
+  font-family: 'Memphis', sans-serif;
+}
+#contact {
+  font-family: 'Memphis', sans-serif;
+}
+footer {
+  font-family: 'Memphis', sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+}
